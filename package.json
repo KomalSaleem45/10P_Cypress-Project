@@ -11,5 +11,6 @@
   "description": "",
   "dependencies": {
     "cypress": "^14.3.2"
+    "mochawesome": "^7.1.3"
   }
 }
